@@ -64,20 +64,26 @@
       }
     </style>
   </head>
-  <body class="bg-cream">
+  <body
+    class="bg-cream sm:h-screen sm:flex sm:flex-col sm:items-center sm:justify-center"
+  >
     <main>
-      <article class="my-6 mx-4 rounded-lg">
+      <article
+        class="my-6 mx-4 rounded-lg sm:flex sm:max-w-screen-sm sm:max-h-[32rem]"
+      >
         <img
           src="./assets/images/image-product-mobile.jpg"
           alt="Perfume bottle"
-          class="rounded-t-lg"
+          class="rounded-t-lg sm:hidden"
         />
         <img
           src="./assets/images/image-product-desktop.jpg"
           alt="Perfume bottle"
-          class="hidden"
+          class="hidden sm:inline-block sm:max-w-[50%] sm:sm:rounded-l-lg"
         />
-        <div class="bg-white rounded-b-lg font-sans text-veryDarkBlue p-5">
+        <div
+          class="bg-white rounded-b-lg font-sans text-veryDarkBlue p-5 sm:rounded-b-none sm:rounded-r-lg sm:p-8"
+        >
           <h2 class="text-xs uppercase tracking-widest text-darkGrayishBlue">
             Perfume
           </h2>
@@ -89,7 +95,7 @@
             Polge, Perfumer-Creator for the House of CHANEL.
           </p>
           <p
-            class="flex items-center mt-10 mb-4 text-4xl font-serif text-darkCyan"
+            class="flex items-center mt-10 mb-4 text-4xl font-serif text-darkCyan sm:mt-8 sm:mb-9"
           >
             $149.99<span
               class="ml-6 text-sm font-sans line-through text-darkGrayishBlue"
