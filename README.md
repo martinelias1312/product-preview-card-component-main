@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-with-tailwind-V6BmCGHxUL](https://www.frontendmentor.io/solutions/product-preview-card-with-tailwind-V6BmCGHxUL)
+- Live Site URL: [https://product-preview-card-component-main-zeta.vercel.app/](https://product-preview-card-component-main-zeta.vercel.app/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-First time with tailwind css framework. I have learned how to use it on simple task with media queries also.
+First time using tailwind css framework. I have learned how to use it on simple task with media queries also.
 
 ## Author
 
